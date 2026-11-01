@@ -160,7 +160,7 @@ namespace Enterprise.Architecture
 I am always open to discussing **enterprise software architecture**, **full-stack development contracts**, **system optimization**, or **technical consulting**. If you have a challenging project that requires clean code and reliable infrastructure, let's connect:
 
 <p align="left">
-  <a href="https://linkedin.com/in/MiadAslani" target="_blank">
+  <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ir.linkedin.com/in/miad-aslani-264198344&ved=2ahUKEwip9cWpmOeXAxXuBNsEHb37EFcQFnoECCUQAQ&sqi=2&usg=AOvVaw0b2szsuRUf8b6MOmfvA7Xh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:miadaslani7@gmail.com">
