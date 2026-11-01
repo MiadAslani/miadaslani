@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Focus-Enterprise_Architecture-1f2937?style=flat-square&logo=serverless&logoColor=58A6FF" />
     <img src="https://img.shields.io/badge/Security-OWASP_&_Hardening-1f2937?style=flat-square&logo=letsencrypt&logoColor=10B981" />
     <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-1f2937?style=flat-square&logo=githubsponsors&logoColor=F59E0B" />
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MiadAslani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
